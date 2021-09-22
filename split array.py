@@ -7,7 +7,6 @@ def splitArr(arr, n, k):
         arr[n-1] = x
           
   
-# main
 arr = [12, 10, 5, 6, 52, 36]
 n = len(arr)
 position = 2
